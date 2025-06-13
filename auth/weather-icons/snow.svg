@@ -5,7 +5,7 @@
 -->
 <!-- snow.svg -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <g fill="#FFF" stroke="#00bfff" stroke-width="2" stroke-linecap="round">
+  <g fill="#FFF" stroke="#FFF" stroke-width="2" stroke-linecap="round">
     <path d="M12 2v20"/>
     <path d="M4.93 4.93l14.14 14.14"/>
     <path d="M4.93 19.07l14.14-14.14"/>
