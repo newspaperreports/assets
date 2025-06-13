@@ -4,7 +4,7 @@
   Unauthorized use, copying or redistribution is strictly prohibited.
 -->
 <!-- cloud+sun.svg -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="200" height="200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
   <circle cx="20" cy="20" r="10" fill="#FFD54F"/>
   <path d="M24 30a12 12 0 00-11.8 10H44a8 8 0 000-16 10 10 0 00-20-2.5" fill="#90CAF9"/>
 </svg>
